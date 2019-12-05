@@ -1,0 +1,117 @@
+
+    .five_sp{
+        width: 25%!important;
+    }
+	.search_frm_s{
+		
+		top :25px;right:0px;
+	}
+	.menu_none{
+		display:none;
+	}
+    /**************************/
+	.container_s {
+		min-width:1349px;
+		margin: 0px auto;
+		overflow: hidden;
+	}
+	.menufix>.menu{
+		width:1200px;margin:0px auto;
+	}
+    .container,.menufix>.container_fix{
+		position:relative;
+        width: 1230px!important;
+        margin: 0px auto;
+    }
+	.container2{
+        width: 1230px!important;
+        margin: 0px auto;
+    }
+	.container3{
+        width: 1349px!important;
+        margin: 0px auto;
+    }
+    .lang_s{
+        
+    }
+	.banner_text{
+	
+	}
+	.banner_group{
+			
+	}
+	.menu_dm {
+		float: left;
+		width: 20.17%;
+
+
+	}
+	.box_top {
+		float: right;
+		width: 79.83%;
+	}
+    .cot_left_s{
+        width: 21.5%;
+        
+    }
+    .cot_mid_s{
+	     width: 77.25%;
+       
+    }
+	.detail_right{
+	   
+        float: right;
+    }
+	.box_t_left{
+		  width: 61.54%;
+	}
+	.box_t_right{
+		width: 38.46%;
+        float: right;	
+	}
+	.box_sanpham_qc {    
+		width: 36.25%;
+	}
+	.box_sanpham_list {
+		    width: 63.75%;
+	}
+    .nut_bt{
+   
+    }
+    .mang_xh
+	{
+	
+    }
+    .edge_web{
+        position: fixed;
+        top:100px;
+        left: 0px;
+    }
+    .ddsmoothmenu >ul >li >a {
+  
+    }
+	
+	.text_gt {
+	
+	}
+	.expand-search{  
+		position: absolute;
+		top: 50%;
+		right: 0px;
+		transform: translate(0%,-50%);
+    }
+    .form-search{
+		position: absolute;
+		right: 0px;
+		top: -5px;
+	}
+	.five_sp{
+        width: 20%!important;
+    }.pad_des{
+		padding:0px;
+	}
+
+
+
+
+

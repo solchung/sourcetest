@@ -1,0 +1,211 @@
+.show-pro-info
+{
+	margin: 15px auto;
+
+}
+
+.left_sp {
+  width: 400px;
+  float: left;
+
+}
+.right-pro-info
+{
+    width: 260px;
+    float: right;
+
+
+}
+ul.product_info li {
+margin: 0 0 10px 0;
+border-bottom: 1px dashed #CCC;
+padding: 0 0 10px 0;
+list-style:none;
+}
+.detail_product {
+margin-top: 15px;
+}
+/*++++++++++JS ZOOM PRODUCT+++++++++++*/
+div.jszoom-product{float: left;width:450px;}
+div.thumb ul{position: relative;list-style: none; padding:0px; margin:0 auto; text-align:center;}
+div.thumb ul li{/*position: absolute;*/ position:relative;z-index: 0;width: 350px;display: none;}
+div.thumb ul li.active{z-index: 10;display: block;}
+
+
+#container-tab
+{
+margin: 15px auto;  
+}
+
+div#container-tab #tabs ul
+{
+  margin-left:0;
+  padding:0;
+}
+div#container-tab #tabs li
+{
+  float:left;
+  list-style:none;
+}
+div#container-tab #tabs li#tab_spformat 
+{
+  white-space: nowrap;
+  background: #D03316;
+  padding: 8px 20px;
+  margin-right: 1px;
+  color: #fff;
+}
+div#container-tab #tabs li#tab_spformat a
+{
+	color:#ffffff;
+}
+div#container-tab #tabs li#tab_spformat.active
+{
+	 background:#25a9df;
+	 color:#fff;
+}
+div#container-tab #tabs li#tab_spformat.active a
+{
+	 color:#fff;
+	 font-weight:bold;
+}
+#tabs div#tab-1
+{
+border: 1px solid #ccc;
+margin: 0 auto;
+
+padding: 20px;
+}
+#tabs div#tab-2
+{
+border: 1px solid #ccc;
+margin: 0 auto;
+
+padding: 20px;
+}
+#tabs div#tab-3
+{
+border: 1px solid #ccc;
+margin: 0 auto;
+width: 96%;
+padding: 20px;
+}
+
+#tabs div#tab-4
+{
+border: 1px solid #ccc;
+margin: 0 auto;
+width: 96%;
+padding: 20px;
+}
+
+#tabs div#tab-5
+{
+border: 1px solid #ccc;
+margin: 0 auto;
+width: 96%;
+padding: 20px;
+}
+
+
+#tabs
+{
+
+}
+
+#tab_detail
+{
+	position: relative;
+margin: 0px auto;
+
+padding:0;
+border-radius: 6px 6px 0px 0px;
+z-index: 10;
+}
+
+
+.other-pro
+{
+	margin: 15px auto
+	
+
+}
+
+.pdl-info-content {
+    line-height: 18px;
+    background:url(../images/form-thongtin.jpg) no-repeat;
+    width:698px;
+    height:336px;
+}
+.title_thongtin {
+    line-height: 40px;
+    color: #fff;
+    padding: 7px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: CENTER;
+}
+.contactform{ color:#333333; padding:5px 0 0 10px; width:400px; float:left;}
+
+.hotline{ font-size:14px; float:left; margin-left:10px; width:260px; line-height:20px; margin-top:10px;    color: #F00;}
+
+
+.contactform ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+.contactform ul li.fieldlabel {
+    display: inline;
+    float: left;
+    padding-right: 5px;
+    padding-top: 5px;
+    width: 80px;
+}
+
+.contactform ul li.fieldinput {
+    padding: 5px 0 0;
+}
+
+* +html .contactform ul li.fieldinput {
+    padding: 0px 0 0;
+}
+
+.contactform .textfield {
+  height: 20px;
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 transparent;
+    border-color: -moz-use-text-color -moz-use-text-color #999999;
+    border-style: none none dotted;
+    border-width: 0 0 1px;
+    color: #666666;
+    font-size: 11px;
+    width: 300px;
+}
+
+.contactform .textarea {
+   
+    border: 0 none;
+    color: #666666;
+    font-size: 11px;
+    height: 100px;
+    line-height: 23px;
+    width: 210px;
+}
+.line {
+    height: 10px;
+}
+.redstar {
+    color: #FF3333;
+    padding-left: 2px;
+}
+
+.btnsubmit{ background:#FF7326; width:52px; height:26px;color: #fff; cursor: pointer; }
+.btncancel{ background:#FF7326; width:52px; height:26px; color: #fff; cursor: pointer;}
+
+input { border:none; }
